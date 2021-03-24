@@ -1,4 +1,4 @@
-![header image](https://github.com/account/reponame/blob/master/myimage.png)
+![header image](https://postimg.cc/Y4TM9zKt][img]https://i.postimg.cc/Y4TM9zKt/Screen-Shot-2021-03-24-at-11-09-39-PM.png)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
