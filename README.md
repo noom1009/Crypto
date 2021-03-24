@@ -1,6 +1,5 @@
-# https://postimg.cc/Y4TM9zKt https://postimg.cc/7Jk41PZc
+# <a href="https://postimg.cc/Y4TM9zKt" target="_blank"><img src="https://i.postimg.cc/Y4TM9zKt/Screen-Shot-2021-03-24-at-11-09-39-PM.png" alt="Screen-Shot-2021-03-24-at-11-09-39-PM"/></a> <a href="https://postimg.cc/7Jk41PZc" target="_blank"><img src="https://i.postimg.cc/7Jk41PZc/Screen-Shot-2021-03-24-at-11-11-28-PM.png" alt="Screen-Shot-2021-03-24-at-11-11-28-PM"/></a><br/><br/>
 
-[url=https://postimg.cc/Y4TM9zKt][img]https://i.postimg.cc/Y4TM9zKt/Screen-Shot-2021-03-24-at-11-09-39-PM.png[/img][/url]
 
 #This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
